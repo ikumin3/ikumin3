@@ -13,7 +13,7 @@
 - https://www.primeclover.com/
 
 - [Blog](https://primeclover-inbox.com)
-- [創作用Twitter](https://twitter.com/ikumin3)
+- [創作用Twitter](https://twitter.com/_ikumin3)
 - [開発用Twitter](https://twitter.com/prime_clover)
 
 - [GIthub](https://github.com/ikumin3)
